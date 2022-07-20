@@ -1,0 +1,11 @@
+.restaurant-container {
+  margin-top: 15px;
+  margin-left: 15px;
+}
+.forms-container {
+  display: flex;
+}
+input, select, span, button {
+  padding: 5px;
+  margin: 10px;
+}
